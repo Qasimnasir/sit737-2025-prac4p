@@ -42,7 +42,7 @@ This Node.js microservice provides basic calculator functionality.
 
 ## View Logs
 
-* `tail -f logs/combined.log`
+* `Get-Content -Path logs/combined.log -Wait`
 
 ## Repo link
 

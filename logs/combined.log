@@ -1,0 +1,4 @@
+{"level":"info","message":"New divide operation requested: 10 divide 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 100 divide 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters","service":"calculator-microservice"}
